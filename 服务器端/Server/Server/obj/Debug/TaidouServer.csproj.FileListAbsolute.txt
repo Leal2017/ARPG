@@ -1,0 +1,6 @@
+E:\TaidouPhotonServer\deploy\TaidouServer\bin\TaidouServer.dll
+E:\TaidouPhotonServer\deploy\TaidouServer\bin\TaidouServer.pdb
+E:\Photon Workspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.csprojResolveAssemblyReference.cache
+E:\Photon Workspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.dll
+E:\Photon Workspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.pdb
+E:\TaidouPhotonServer\deploy\TaidouServer\bin\log4net.config

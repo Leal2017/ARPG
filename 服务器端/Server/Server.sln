@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouServer", "TaidouServer\TaidouServer.csproj", "{73F59627-6AA3-4D55-A3F2-CE9967C5FE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouCommon", "TaidouCommon\TaidouCommon.csproj", "{763EEE9A-81D0-459B-BD91-B30E85880B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F59627-6AA3-4D55-A3F2-CE9967C5FE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F59627-6AA3-4D55-A3F2-CE9967C5FE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F59627-6AA3-4D55-A3F2-CE9967C5FE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F59627-6AA3-4D55-A3F2-CE9967C5FE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763EEE9A-81D0-459B-BD91-B30E85880B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763EEE9A-81D0-459B-BD91-B30E85880B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763EEE9A-81D0-459B-BD91-B30E85880B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763EEE9A-81D0-459B-BD91-B30E85880B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
